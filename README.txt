@@ -42,4 +42,5 @@ Google Calendar API: Para ler os dados dos eventos.
 Google Sheets API: Para escrever e organizar os dados na planilha.
 
 ## Autor
+
 Desenvolvido por EloisaMedeiros como parte de um projeto de aprendizado em automação e gestão de dados para Liga Academica WIEE
